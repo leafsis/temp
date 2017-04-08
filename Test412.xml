@@ -1,7 +1,0 @@
-<suite name="Suite" parallel="false">
-  <test name="Test">
-    <classes>
-      <class name="day12.Test41"/>
-    </classes>
-  </test>
-</suite>
